@@ -1,0 +1,42 @@
+.goods__button {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 30px 0;
+}
+.sorting__goods {
+height: 40px;
+background-color: rgb(219, 197, 0);
+color: rgb(0, 0, 0);
+}
+.btn {
+   padding: 10px;
+}
+.navlist {
+   padding: 10px;
+   background-color: burlywood;
+ 
+
+}
+.nav-item {
+  display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   padding: 20px;
+   background-color: cadetblue;
+   border: 1px solid rgb(17, 16, 17);
+}
+
+
+.red {
+   background-color: red;
+}
+.black {
+   background-color: rgb(0, 0, 0);
+   color: aliceblue;
+}
+.yellow {
+   background-color: yellow;
+}
+.blu {
+}
